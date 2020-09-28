@@ -1,6 +1,10 @@
 # Social Network iOS App
 A Social network built using swiftUI
 
+## Xcode support
+Please Use Xcode 12 for running the application.
+
+
 ## Description
 This App shows is a social network built using SwiftUI, it includes 5 different screens (popular posts screen,  new posts screen, followed posts screen ,profile screen, and post detail screen).
 
